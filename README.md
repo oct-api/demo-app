@@ -1,2 +1,2 @@
 # demo-app
-An oct-app demo app
+An oct-api demo app
